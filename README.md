@@ -40,3 +40,4 @@ Baixe ou clone este repositório.
 
 No terminal, execute:
 python quiz.py# Quizzdarksider
+# darkquizz
